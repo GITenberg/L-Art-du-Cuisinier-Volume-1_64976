@@ -1,11 +1,16 @@
 _repo: L-Art-du-Cuisinier-Volume-1_64976
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64976-h/images/cover.jpg
 creator:
   author:
     agent_name: Beauvilliers, Antoine
     gutenberg_agent_id: '53122'
     url: http://www.gutenberg.org/2009/agents/53122
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64976#L-Art-du-Cuisinier-Volume-1
 gutenberg_issued: '2021-03-31'
 gutenberg_type: Text
 identifiers:
